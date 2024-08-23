@@ -1,1 +1,1 @@
--- A list of project --
+A list of Projects
