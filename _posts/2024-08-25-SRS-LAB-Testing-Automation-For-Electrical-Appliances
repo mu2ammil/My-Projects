@@ -1,3 +1,8 @@
+---
+title: "LAB Testing Automation For Electrical Appliances"
+date: 2024-08-25
+---
+
 Introduction : –
 
 The SRS Electrical appliances are the manufacturers of some electrical products like switch gears, fuses, capacitors, resistors, etc…. These products after manufactured they are sent for testing where the product is subjected to some testing conditions, and then after the testing is successful at their laboratories they are sent to CPRI for further testing process, so that they can get it approved from CPRI and then release the product into the market. If the testing fails then the product is sent back for re-manufacturing it and then they are again subjected to tests.
